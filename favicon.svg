@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <rect width="64" height="64" rx="12" fill="#f4eddd"/>
-  <circle cx="32" cy="32" r="24" fill="#e1472d"/>
-  <circle cx="32" cy="32" r="19" fill="none" stroke="#f4eddd" stroke-width="2" stroke-dasharray="3 2"/>
-  <text x="32" y="42" text-anchor="middle" font-family="serif" font-size="29" font-weight="900" fill="#f4eddd">相</text>
+  <rect width="64" height="64" rx="10" fill="#171713"/>
+  <rect x="7" y="7" width="50" height="50" rx="6" fill="none" stroke="#d8ff4f" stroke-width="3"/>
+  <text x="32" y="40" text-anchor="middle" font-family="ui-monospace,monospace" font-size="24" font-weight="900" fill="#d8ff4f">JS</text>
+  <path d="M50 10h8v8" fill="none" stroke="#e1472d" stroke-width="5"/>
 </svg>
